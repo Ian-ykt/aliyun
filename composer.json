@@ -1,0 +1,17 @@
+{
+    "name": "ian/aliyun",
+    "description": "aliyun SMS",
+    "authors": [
+        {
+            "name": "yangkaitian",
+            "email": "yangkaitian@njfae.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Aliyun\\":"src/"
+        }
+    }
+}
